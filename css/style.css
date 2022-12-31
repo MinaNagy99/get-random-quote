@@ -1,0 +1,17 @@
+h1{
+    font-size: 80px;
+    font-weight: bolder;
+}
+p{
+    font-size: 35px;
+}
+button{
+    font-size: 30px;
+    width: 300px;
+    height: 100px;
+    margin: auto;
+    background-color: aqua;
+}
+button:hover{
+    background-color: brown;
+}
